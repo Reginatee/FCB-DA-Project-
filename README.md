@@ -8,8 +8,22 @@ The primary source of the Data is Data.csv and thus is an open source that can b
 
 ## Tool Used
 
-- Ms Excel for date cleaning [Download here](https://www.microsoft.com)
-- Microsoft Power Bi 
+- *Ms Excel for date cleaning* [Download here](https://www.microsoft.com)
+- Microsoft Power Bi for data visualization [Download here](https://powerbi.microsoft.com/en-us/downloads/)
 - Python
 - SQL
 
+
+## Project preview
+
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|-----------|
+|Data 1| Data 2| Data 3|
+
+
+```
+Google Query Sheet
+SELECT * FOM TABLE 1
+WHERE CONDITION = NET
+
+```
