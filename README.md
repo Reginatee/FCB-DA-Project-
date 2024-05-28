@@ -7,7 +7,9 @@ The primary source of the Data is Data.csv and thus is an open source that can b
 
 
 ## Tool Used
-- Ms Excel for date cleaning [Download here] (https://www.microsoft.com/en-us/microsoft-365/excel)
+
+- Ms Excel for date cleaning [Download here](https://www.microsoft.com)
 - Microsoft Power Bi 
 - Python
 - SQL
+
