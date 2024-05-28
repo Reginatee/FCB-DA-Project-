@@ -27,3 +27,10 @@ SELECT * FOM TABLE 1
 WHERE CONDITION = NET
 
 ```
+
+
+![](Personal.jpg)
+
+![Future Clan Student Schedule](https://github.com/Reginatee/FCB-DA-Project-/assets/171021369/f71afc0f-4d22-46de-bff9-7c856f20ecfa)
+
+
