@@ -6,7 +6,7 @@ In this project, I aim to harness the power of data analysis to develop a compre
 The primary source of the Data is Data.csv and thus is an open source that can be freely downloaded from an open source 
 
 
-##Tool Used
+## Tool Used
 - Ms Excel
 - Microsoft Power Bi 
 - Python
